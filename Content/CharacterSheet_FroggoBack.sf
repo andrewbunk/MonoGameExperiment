@@ -1,0 +1,19 @@
+{
+  "textureAtlas": {
+    "texture": "CharacterSheet_FroggoBack.png",
+    "regionWidth": 350,
+    "regionHeight": 350
+  },
+  "cycles": {
+    "idle": {
+      "frames": [0,1],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "walk": {
+      "frames": [5,6,7,8],
+      "isLooping": false,
+      "frameDuration": 0.2
+    }
+  }
+}

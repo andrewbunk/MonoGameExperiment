@@ -1,0 +1,19 @@
+{
+  "textureAtlas": {
+    "texture": "CharacterSheet_CharacterFront.png",
+    "regionWidth": 350,
+    "regionHeight": 350
+  },
+  "cycles": {
+    "walk": {
+      "frames": [10,11,12,13],
+      "isLooping": false,
+      "frameDuration": 0.2
+    },
+    "idle": {
+      "frames": [0,1],
+      "isLooping": false,
+      "frameDuration": 0.2
+    }
+  }
+}
